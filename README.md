@@ -2,9 +2,8 @@
 
 I created this as we had an old bell system that in order to change the times we had to remote into a server and because of where we had that running it was difficult to give multiple people access to it.
 
-This uses the same usb relay:
-
-![](relay.jpg | width=100)
+This uses the same usb relay:<br>
+<img src="https://github.com/mathsnz/SchoolBells/raw/main/relay.jpg" height=200>
 
 But has a web interface for scheduling the bells.
 
