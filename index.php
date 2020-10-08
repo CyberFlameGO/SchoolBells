@@ -359,7 +359,7 @@ if($function=='main'){
 	}
     echo "Saved";
     loadcontent($i." Bells Added to Schedule",'week');
-} else if($function=='ringnow'){
+} else if($function=='ring'){
     shell_exec("./on.sh");
     sleep(2);
     shell_exec("./off.sh");
