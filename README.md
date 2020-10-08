@@ -5,10 +5,9 @@ I created this as we had an old bell system that in order to change the times we
 This uses the same usb relay:<br>
 <img src="https://github.com/mathsnz/SchoolBells/raw/main/relay.jpg" height=200>
 
-But has a web interface for scheduling the bells.
-
-![](screenshot.png | width=100)
-![](screenshot2.png | width=100)
+But has a web interface for scheduling the bells.<br>
+<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot.png" height=200>
+<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot2.png" height=200>
 
 Released as is where is for you to take as needed.
 
