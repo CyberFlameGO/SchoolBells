@@ -5,8 +5,8 @@ This uses the same usb relay as that system:<br>
 <img src="https://github.com/mathsnz/SchoolBells/raw/main/relay.jpg" height=200>
 
 But has a web interface for scheduling the bells.<br>
-<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot.png" height=200>
-<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot2.png" height=200>
+<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot.png" height=300>
+<img src="https://github.com/mathsnz/SchoolBells/raw/main/screenshot2.png" height=300>
 
 Released as is where is for you to take as needed.
 
