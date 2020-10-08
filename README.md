@@ -3,11 +3,11 @@
 I created this as we had an old bell system that in order to change the times we had to remote into a server and because of where we had that running it was difficult to give multiple people access to it.
 
 This uses the same usb relay:
-![](relay.jpg =250x)
+![](relay.jpg)
 
 But has a web interface for scheduling the bells.
-![](screenshot.png =250x)
-![](screenshot2.png =250x)
+![](screenshot.png)
+![](screenshot2.png)
 
 Released as is where is for you to take as needed.
 
